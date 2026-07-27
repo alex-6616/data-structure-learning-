@@ -53,4 +53,4 @@ gcc -std=c11 -Wall -Wextra -Wpedantic -fsanitize=address file.c -o program
 4. 补充空结构、单元素、首尾位置和容量边界测试；
 5. 完成当天 `notes.md` 末尾的掌握检查。
 
-该目录只是重新组织 GitHub 文件，不改变原 60 天学习计划。
+p.s. week02其实早就学完了，中间有事鸽了好久，今天一次性打包上来~
